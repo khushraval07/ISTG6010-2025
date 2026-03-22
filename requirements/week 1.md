@@ -81,22 +81,22 @@ I want an AI as a player so I can play by myself.
 Difficulty levels
 Auto turns
 
-5. Game Outcome
+5. Game Outcome:
 As a player, I want to know the result.
 Detect win/lose
 Show result
 
-6. Remaining Ships
+6. Remaining Ships:
 I want to view the remaining ships as a player.
 Display count
 Update after hits
 
-7. User Interface
+7. User Interface:
 As a player, I want a simple interface.
 Clear grid
 Easy controls
 
-8. Sound & Effects
+8. Sound & Effects:
 As a player, I want sound and visuals.
 Hit/miss sounds
 Basic animations
