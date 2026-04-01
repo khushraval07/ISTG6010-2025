@@ -17,37 +17,46 @@ Feedback Based on Criteria:
 Clarity:
 Reviewers were able to play the game with ease.
 Suggestion: Add tooltips for first-time users
+
 Completeness:
 Every big screen was present.
 Suggestion: Add a settings screen (sound, difficulty)
+
 Consistency:
 Color coding and grid layout were uniform.
 There were no reports of confusion.
+
 Scalability:
 Design allows
 Multiplayer mode
 Leaderboard system
 Suggested improvement: Plan for mobile responsiveness
+
 Usability:
 Simple gameplay and navigation
 Recommendation: Before firing, highlight the chosen grid cell
+
 Adherence to Requirements:
 Meets all core Battleship rules
 Ship placement
 Turn-based attacks
 Win condition
+
 Technical Feasibility:
 Fully feasible with basic web technologies
 Potential challenge
 AI logic for opponent behavior
+
 Optimization Opportunities:
 Use efficient data structures for grid tracking
 Minimize re-rendering in UI (if using React)
+
 Security Considerations:
 For multiplayer
 Validate moves server-side
 Prevent cheating
 Use secure APIs for communication
+
 Innovation and Creativity:
 Clean UI with color-coded feedback
 Idea for future
@@ -55,10 +64,14 @@ Animated explosions for hits
 Sound effects
 Dark mode
 
+
 Summary of Improvements After Review
 
 Add tooltips/tutorial
+
 Include settings menu
+
 Improve visual feedback (hover effects)
+
 Plan mobile-friendly layout
 
